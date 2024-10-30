@@ -1,5 +1,7 @@
 # Word Search
 
+[![Watch the Video!](https://img.youtube.com/vi/XuZnOt4sTQ0/0.jpg)](https://www.youtube.com/watch?v=XuZnOt4sTQ0)
+
 This Java program allows users to search for a path between two words of the same length using Dijkstra's algorithm. The program uses a graph representation where each word is a vertex, and edges exist between words that differ by only one letter.
 
 ## Features
